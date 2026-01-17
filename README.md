@@ -11,7 +11,7 @@ This Python-based tool provides a user-friendly way to hide and retrieve text me
 
 ## Requirements
 
-*   Python 3.x
+*   Python 3.13
 *   Tkinter (usually included with Python)
 *   OpenCV (cv2): `pip install opencv-python`
 *   Pillow (PIL): `pip install Pillow`
